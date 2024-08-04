@@ -11,7 +11,7 @@ from langchain.prompts import PromptTemplate
 groq_api_key = "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"
 
 def main():
-    st.title("Groq Chat App")
+    st.title("Chat Bot-Siri Ravali")
 
     # Add customization options to the sidebar
     st.sidebar.title('Select an LLM')
